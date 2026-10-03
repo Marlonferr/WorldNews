@@ -1,14 +1,23 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
 #logo {
-   font-family: 'Syncopate', sans-serif;
-    color: rgb(80, 50, 90);
+   font-family: 'aboreto', sans-serif;
+    color: rgb(4, 99, 7) ;
 }
+ body{
+     font-family: 'aboreto', sans-serif;
+
+ }
 
 #noticia_h{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'aboreto', sans-serif;
     color: rgb(80, 50, 90);
+    font-size: px;
 }
 .video_h {
     width: 500px;
     height: 500px;
+}
+article{
+       font-size: 10px;
 }

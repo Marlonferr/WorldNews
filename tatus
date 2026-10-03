@@ -1,0 +1,51 @@
+[33mcommit 9ae47d4b7ae9d28c9cdb44e0716a0e32514d7710[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 2c29bfb 10a3420
+Author: marlon fernando <marlon_smot@outlook.com>
+Date:   Sat Oct 3 18:50:41 2026 -0300
+
+    Merge branch 'main' of https://github.com/Marlonferr/WorldNews
+
+[33mcommit 2c29bfb9f33107cb490c8fa4fd9d55c4a04a7452[m
+Author: marlon fernando <marlon_smot@outlook.com>
+Date:   Sat Oct 3 18:48:29 2026 -0300
+
+    update
+
+sound/sound_news.mp3
+
+[33mcommit f16d17c3355d809cec1a1f19e02ba992af3e5aa7[m
+Author: marlon fernando <marlon_smot@outlook.com>
+Date:   Sat Oct 3 18:47:17 2026 -0300
+
+    update containers
+
+img/video_h.mp4
+oregon/Oregon-Regular.ttf
+
+[33mcommit e93aefdc3583e90e1df13a180b0ae8aa9e3532c4[m
+Author: marlon fernando <marlon_smot@outlook.com>
+Date:   Sat Oct 3 18:45:52 2026 -0300
+
+    update containers
+
+Main.html
+Videos/mobilia.mp4
+Videos/travel.mp4
+Videos/war.mp4
+img/mobilia.jpg
+img/travel.jpg
+img/video_h.mp4
+img/war.jpg
+
+[33mcommit 27ba3e3bc4036ccb246acb322596831acaac98f1[m
+Author: marlon fernando <marlon_smot@outlook.com>
+Date:   Sat Oct 3 18:36:09 2026 -0300
+
+    update-blocos de formatação
+
+Main.html
+Videos/mobilia.mp4
+Videos/travel.mp4
+Videos/war.mp4
+oregon/Oregon-Regular.ttf
+style.css
